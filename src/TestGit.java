@@ -10,6 +10,5 @@ public class TestGit {
         System.out.println("4444");
         System.out.println("master test");
         System.out.println("hot-fix5555");
-        System.out.println("github test");
     }
 }
